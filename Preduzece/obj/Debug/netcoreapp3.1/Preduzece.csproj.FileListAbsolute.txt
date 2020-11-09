@@ -1,0 +1,13 @@
+D:\GitHub\Preduzece\Preduzece\bin\Debug\netcoreapp3.1\Preduzece.exe
+D:\GitHub\Preduzece\Preduzece\bin\Debug\netcoreapp3.1\Preduzece.deps.json
+D:\GitHub\Preduzece\Preduzece\bin\Debug\netcoreapp3.1\Preduzece.runtimeconfig.json
+D:\GitHub\Preduzece\Preduzece\bin\Debug\netcoreapp3.1\Preduzece.runtimeconfig.dev.json
+D:\GitHub\Preduzece\Preduzece\bin\Debug\netcoreapp3.1\Preduzece.dll
+D:\GitHub\Preduzece\Preduzece\bin\Debug\netcoreapp3.1\Preduzece.pdb
+D:\GitHub\Preduzece\Preduzece\obj\Debug\netcoreapp3.1\Preduzece.csprojAssemblyReference.cache
+D:\GitHub\Preduzece\Preduzece\obj\Debug\netcoreapp3.1\Preduzece.AssemblyInfoInputs.cache
+D:\GitHub\Preduzece\Preduzece\obj\Debug\netcoreapp3.1\Preduzece.AssemblyInfo.cs
+D:\GitHub\Preduzece\Preduzece\obj\Debug\netcoreapp3.1\Preduzece.csproj.CoreCompileInputs.cache
+D:\GitHub\Preduzece\Preduzece\obj\Debug\netcoreapp3.1\Preduzece.dll
+D:\GitHub\Preduzece\Preduzece\obj\Debug\netcoreapp3.1\Preduzece.pdb
+D:\GitHub\Preduzece\Preduzece\obj\Debug\netcoreapp3.1\Preduzece.genruntimeconfig.cache
